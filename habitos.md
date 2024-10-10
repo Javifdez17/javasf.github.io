@@ -3,8 +3,8 @@ title: Habitos
 layout: home
 ---
 
-# Hábitos Alimenticios Sostenibles
-##
+Hábitos Alimenticios Sostenibles
+
 Adoptar hábitos alimenticios sostenibles no solo beneficia tu salud, sino también el medio ambiente.
 Una de las mejores maneras de lograrlo es comprando alimentos locales y de temporada, lo que reduce
 el impacto ambiental al disminuir la necesidad de transporte y los métodos de cultivo intensivo.
