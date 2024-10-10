@@ -19,10 +19,10 @@ He aqui una tabla de los nutrientes mas esenciales, para que sirven y de que ali
 ##
 | **Nutriente**      | **Función en el Cuerpo**                                     | **Fuentes Comunes**                             |
 |--------------------|--------------------------------------------------------------|-------------------------------------------------|
-| **Proteínas**       | Construcción y reparación de tejidos, formación de enzimas   | Carnes, pescado, legumbres, huevos, lácteos     |
-| **Carbohidratos**   | Principal fuente de energía                                 | Pan, pasta, arroz, frutas, verduras             |
+| **Proteínas**      | Construcción y reparación de tejidos, formación de enzimas   | Carnes, pescado, legumbres, huevos, lácteos     |
+| **Carbohidratos**  | Principal fuente de energía                                   | Pan, pasta, arroz, frutas, verduras             |
 | **Grasas Saludables**| Reserva de energía, protección de órganos, regulación hormonal | Aceite de oliva, aguacate, frutos secos, pescados grasos |
-| **Vitaminas**       | Regulación de funciones corporales, fortalecimiento del sistema inmunológico | Frutas, verduras, cereales integrales  |
-| **Minerales**       | Desarrollo de huesos, dientes y función nerviosa             | Lácteos, carne, frutos secos, verduras de hoja verde |
-| **Fibra**           | Mejora la digestión, controla los niveles de azúcar en sangre | Cereales integrales, frutas, verduras, legumbres |
-| **Agua**            | Regulación de la temperatura, eliminación de desechos        | Agua potable, frutas, verduras                  |
+| **Vitaminas**      | Regulación de funciones corporales, fortalecimiento del sistema inmunológico | Frutas, verduras, cereales integrales           |
+| **Minerales**      | Desarrollo de huesos, dientes y función nerviosa             | Lácteos, carne, frutos secos, verduras de hoja verde |
+| **Fibra**          | Mejora la digestión, controla los niveles de azúcar en sangre | Cereales integrales, frutas, verduras, legumbres |
+| **Agua**           | Regulación de la temperatura, elimin
