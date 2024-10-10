@@ -1,3 +1,8 @@
+---
+title: Habitos Saludables
+layout: home
+---
+
 # Hábitos Alimenticios Sostenibles
 ##
 Adoptar hábitos alimenticios sostenibles no solo beneficia tu salud, sino también el medio ambiente.
