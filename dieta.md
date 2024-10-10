@@ -16,7 +16,7 @@ correctas ayuda a prevenir deficiencias nutricionales y mantiene un peso corpora
 He aqui una tabla de los nutrientes mas esenciales, para que sirven y de que alimentos se pueden adquirir
 
 ----
-#
+
 | **Nutriente**      | **Función en el Cuerpo**                                     | **Fuentes Comunes**                             |
 |--------------------|--------------------------------------------------------------|-------------------------------------------------|
 | **Proteínas**      | Construcción y reparación de tejidos, formación de enzimas   | Carnes, pescado, legumbres, huevos, lácteos     |
