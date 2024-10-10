@@ -20,3 +20,6 @@ cereales puede marcar una gran diferencia. Además, elegir productos orgánicos 
 de sostenibilidad ayuda a fomentar prácticas agrícolas responsables, que respetan tanto el suelo 
 como los recursos naturales. Con pequeños cambios en tus elecciones diarias, puedes contribuir 
 a un planeta más saludable y sostenible sin sacrificar el sabor o la variedad en tu dieta.
+
+----
+![b](https://elglobal.es/wp-content/uploads/2020/01/piramide-de-la-alimentacion-saludable_608875_20190719133634.jpg)
