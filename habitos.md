@@ -1,6 +1,6 @@
 ---
-title: Habitos Saludables
-layout: Habitos saludables
+title: Habitos
+layout: home
 ---
 
 # Hábitos Alimenticios Sostenibles
