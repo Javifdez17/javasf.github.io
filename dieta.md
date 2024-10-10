@@ -2,7 +2,7 @@
 
 ---
 title: Dieta balanceada
-layout: Dieta balanceada
+layout: home
 ---
 # Dieta balanceada
 
