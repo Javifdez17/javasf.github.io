@@ -2,8 +2,7 @@
 title: Alimentacion saludable
 layout: home
 ---
-# Alimentacion Saludable
-
+### Alimentacion Saludable
 
 La alimentación saludable se refiere a una forma equilibrada de consumir alimentos
 que aportan todos los nutrientes esenciales que el cuerpo necesita para funcionar 
