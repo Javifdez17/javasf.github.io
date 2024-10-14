@@ -20,5 +20,6 @@ aumenta los niveles de energía, mejorando así la calidad de vida a largo plazo
 
 - [Dieta balanceada](https://javifdez17.github.io/javasf.github.io/dieta.html)
 - [Hábitos Alimenticios Sostenibles](https://javifdez17.github.io/javasf.github.io/habitos.html)
+- [Mitos](https://javifdez17.github.io/javasf.github.io/otra.html)
 
 
