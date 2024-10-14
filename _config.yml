@@ -5,6 +5,14 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://estilosdevidasaludable.sanidad.gob.es/alimentacionSaludable/home.htm
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+  # External navigation links
+nav_external_links:
+  - title: Estilos de vida saludable
+    url: https://estilosdevidasaludable.sanidad.gob.es/alimentacionSaludable/home.htm
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
 
 
